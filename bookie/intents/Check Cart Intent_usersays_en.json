@@ -1,0 +1,93 @@
+[
+  {
+    "id": "da738f45-703f-49da-b272-8dda667178b5",
+    "data": [
+      {
+        "text": "get cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "080f1ec8-94ee-421d-ace6-3471a15a756d",
+    "data": [
+      {
+        "text": "check cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50d88261-26a5-45ef-a3ec-e603195569b6",
+    "data": [
+      {
+        "text": "cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26571d35-5fd2-4ddc-947b-c1cad7597f7c",
+    "data": [
+      {
+        "text": "get my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "738f3261-0db1-41c6-818b-7f43aad9fbd9",
+    "data": [
+      {
+        "text": "list my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8537a188-660f-45d8-9640-be8f891b84ae",
+    "data": [
+      {
+        "text": "what is in my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "492afc65-9f2d-4c8b-8f9a-c7b0d5e7d617",
+    "data": [
+      {
+        "text": "what are the contents of my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

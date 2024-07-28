@@ -1,0 +1,287 @@
+[
+  {
+    "id": "a9847b40-7f29-4196-aeb1-4119256a4ebe",
+    "data": [
+      {
+        "text": "Class 5",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      },
+      {
+        "text": " materials",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32d06319-547f-478f-a9d4-adcca108ea00",
+    "data": [
+      {
+        "text": "Get materials for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 4",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a15ca1d-cc3a-43a3-85b6-830d7c59b301",
+    "data": [
+      {
+        "text": "Get books for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 3",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13bf0b96-146b-48ca-bb12-bcc994596fd1",
+    "data": [
+      {
+        "text": "What are the required materials for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 2",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c13a1058-3792-4a54-81ad-f2e5a91ad834",
+    "data": [
+      {
+        "text": "What are the materials for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 1",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dda2b694-e06d-42a1-b862-ea2bfb7fa878",
+    "data": [
+      {
+        "text": "Class 5",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      },
+      {
+        "text": " books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03a7f3d2-4970-4605-b91a-7bcc8387367b",
+    "data": [
+      {
+        "text": "What books are required for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 4",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cdb96b0-537f-42a5-a39f-873db648994f",
+    "data": [
+      {
+        "text": "What are the names of the textbooks required for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 3",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1c65b4d-3f01-4994-be5f-f059e661dabc",
+    "data": [
+      {
+        "text": "Get textbooks required for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 2",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80be4d74-00b8-4f53-9e04-6fe869cdf33d",
+    "data": [
+      {
+        "text": "What are the required textbooks for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 1",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2da742f0-39cf-477b-a6a5-985bbd04ce1d",
+    "data": [
+      {
+        "text": "What are the requirements for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 5",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99ea1af9-03f6-40d5-8bda-4427fa9fb7a7",
+    "data": [
+      {
+        "text": "Class 4",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      },
+      {
+        "text": " textbooks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "736a111c-fefe-4de0-9298-41af750c6aca",
+    "data": [
+      {
+        "text": "Textbooks for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 3",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "794e2b44-7b78-43f8-8267-457b33de1388",
+    "data": [
+      {
+        "text": "What textbooks are required for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 2",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1d2ec11-73d3-4b0e-a448-b3c83236c3fd",
+    "data": [
+      {
+        "text": "What are the textbooks required for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class 1",
+        "meta": "@ClassName",
+        "alias": "classname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

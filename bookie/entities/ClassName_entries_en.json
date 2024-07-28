@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Class 1",
+    "synonyms": [
+      "Class 1",
+      "Class one"
+    ]
+  },
+  {
+    "value": "Class 2",
+    "synonyms": [
+      "Class 2",
+      "Class two"
+    ]
+  },
+  {
+    "value": "Class 3",
+    "synonyms": [
+      "Class 3",
+      "Class three"
+    ]
+  },
+  {
+    "value": "Class 4",
+    "synonyms": [
+      "Class 4",
+      "Class four"
+    ]
+  },
+  {
+    "value": "Class 5",
+    "synonyms": [
+      "Class 5",
+      "Class five"
+    ]
+  }
+]

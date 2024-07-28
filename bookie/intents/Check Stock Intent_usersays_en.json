@@ -1,0 +1,307 @@
+[
+  {
+    "id": "9067d1c4-cbfb-4013-a38a-ce3e7f24065d",
+    "data": [
+      {
+        "text": "Check how many ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 5",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " there is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3861167-27f8-40c3-a6ab-bf5d6e197508",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 4",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee89a7e4-6365-4838-a663-757ce4bbbaf3",
+    "data": [
+      {
+        "text": "Check number of ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 3",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1483991-7c66-41c6-ab4b-20f8c55e68eb",
+    "data": [
+      {
+        "text": "Check stock of ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 2",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a71b976-9f36-4afb-8e33-3393fa707da3",
+    "data": [
+      {
+        "text": "What is the stock of ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 1",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6c2d621-c318-4992-9561-eaedf8348662",
+    "data": [
+      {
+        "text": "Stock ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 5",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a0b6f55-d479-4939-97e3-6bc26a2d4916",
+    "data": [
+      {
+        "text": "Stock of ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 4",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cd7a97c-cdae-4d08-9490-0da8715853e1",
+    "data": [
+      {
+        "text": "Quantity of ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 3",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b617511-a492-4047-a7a0-2c953894bafa",
+    "data": [
+      {
+        "text": "Textbook 2",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " quantity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3ddae3e-b0d3-4e5f-a26c-f1ced90cf21d",
+    "data": [
+      {
+        "text": "What number of ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 1",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ead9ffc2-7b98-42d4-90e4-565d547a8ebe",
+    "data": [
+      {
+        "text": "Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 5",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2838b9a-f654-4547-a93f-21258f8461cc",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 4",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05d33bb8-d7c9-450f-b32d-994294c2631f",
+    "data": [
+      {
+        "text": "Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook.3",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " in stock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76ff4ab3-6788-4c8c-b639-9681453fa127",
+    "data": [
+      {
+        "text": "Textbook 2",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " stock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3d03d77-201c-48b6-ac11-2712129e81ad",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 1",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " are in stock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

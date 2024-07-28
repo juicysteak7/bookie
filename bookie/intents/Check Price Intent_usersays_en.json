@@ -1,0 +1,299 @@
+[
+  {
+    "id": "e3bfae33-9c87-4d64-9cd8-a858940e8b19",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 3",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " cost ",
+        "userDefined": false
+      },
+      {
+        "text": "10.20",
+        "meta": "@sys.number",
+        "alias": "bookprice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13190587-973f-4fc8-b6dc-0708df59f414",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 5",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " cost less than ",
+        "userDefined": false
+      },
+      {
+        "text": "20.00",
+        "meta": "@sys.number",
+        "alias": "bookprice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef535ebb-0905-4b93-98bb-5a2c4cf9a6d0",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 1",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " cost more than ",
+        "userDefined": false
+      },
+      {
+        "text": "10.10",
+        "meta": "@sys.number",
+        "alias": "bookprice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a2c1f7f-86a4-4dd6-9fe7-9715608bee66",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 4",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " less than ",
+        "userDefined": false
+      },
+      {
+        "text": "20.00",
+        "meta": "@sys.number",
+        "alias": "bookprice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "643c7c1a-5447-4c62-b4ac-b27b21808135",
+    "data": [
+      {
+        "text": "how many dollars is ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 2",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a894ce7d-9d63-47a4-b058-47255ae564c9",
+    "data": [
+      {
+        "text": "Textbook 4",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " dollars",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0765af8-d2f8-4894-ac8a-581ff7560a2e",
+    "data": [
+      {
+        "text": "Textbook 2",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14ac98ee-280f-42ba-be85-b653405c6c8b",
+    "data": [
+      {
+        "text": "Textbook 5",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff1d3b7c-1bc2-459c-bed9-292e46416b1d",
+    "data": [
+      {
+        "text": "what is the cost of ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 4",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e490e910-2e8e-489f-abd5-c27360c448b1",
+    "data": [
+      {
+        "text": "how much is ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 1",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dde3e1d7-5032-4d47-8a3d-a29b29899c18",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 3",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      },
+      {
+        "text": " more than ",
+        "userDefined": false
+      },
+      {
+        "text": "10.20",
+        "meta": "@sys.number",
+        "alias": "bookprice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "203d282a-896a-4048-9329-f8fcba63ae0f",
+    "data": [
+      {
+        "text": "I want to check the price of ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 2",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfe223a3-ae5f-403c-8e7a-42735756ed28",
+    "data": [
+      {
+        "text": "what is the price of ",
+        "userDefined": false
+      },
+      {
+        "text": "Textbook 1",
+        "meta": "@BookName",
+        "alias": "bookname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

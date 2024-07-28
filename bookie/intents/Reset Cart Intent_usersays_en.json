@@ -1,0 +1,67 @@
+[
+  {
+    "id": "198332ff-f5f1-499e-bd2a-d294deebacaa",
+    "data": [
+      {
+        "text": "I don\u0027t want my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79f72290-ba19-4ed2-82ee-9df23ffbc802",
+    "data": [
+      {
+        "text": "reset my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "393525bd-8664-47be-b69e-0e48e807e10b",
+    "data": [
+      {
+        "text": "take everything out of my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e2f37c9-ab0b-40b3-9328-d08d481cf79d",
+    "data": [
+      {
+        "text": "remove everything from my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c02343d5-a35c-45f5-8470-898ed68a1fc5",
+    "data": [
+      {
+        "text": "please reset my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

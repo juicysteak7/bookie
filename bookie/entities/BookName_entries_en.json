@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Textbook 1",
+    "synonyms": [
+      "Textbook One",
+      "Textbook 1"
+    ]
+  },
+  {
+    "value": "Textbook 2",
+    "synonyms": [
+      "Textbook Two",
+      "Textbook 2"
+    ]
+  },
+  {
+    "value": "Textbook 3",
+    "synonyms": [
+      "Textbook Three",
+      "Textbook 3"
+    ]
+  },
+  {
+    "value": "Textbook 4",
+    "synonyms": [
+      "Textbook Four",
+      "Textbook 4"
+    ]
+  },
+  {
+    "value": "Textbook 5",
+    "synonyms": [
+      "Textbook Five",
+      "Textbook 5"
+    ]
+  }
+]
